@@ -5,6 +5,8 @@
 The android library provides a simple decimal number picker with value increase/decrease buttons.
 It's suitable for frequency tune inputs, correction values, etc.
 
+<img src="https://github.com/3cky/DecimalNumberPicker/blob/master/doc/screenshot.png">
+
 ## Features
 
 - Customizable range, supports negative values
