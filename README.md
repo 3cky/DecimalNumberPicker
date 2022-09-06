@@ -1,4 +1,6 @@
-# Decimal Number Picker
+# Decimal Number 
+
+[![](https://jitpack.io/v/3cky/DecimalNumberPicker.svg)](https://jitpack.io/#3cky/DecimalNumberPicker)
 
 The android library provides a simple decimal number picker with value increase/decrease buttons.
 It's suitable for frequency tune inputs, correction values, etc.
