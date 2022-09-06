@@ -1,0 +1,3 @@
+rootProject.name = "DecimalNumberPicker"
+include ':app'
+include ':lib'

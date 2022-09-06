@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DecimalNumberPicker</string>
+    <string name="title_activity_main">DecimalNumberPicker</string>
+    <string name="toast_text">Value changed from %1$f to %2$f</string>
+</resources>
