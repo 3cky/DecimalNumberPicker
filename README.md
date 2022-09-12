@@ -27,7 +27,7 @@ allprojects {
 }
 
 dependencies {
-    implementation 'com.github.3cky:decimalnumberpicker:1.0.0'
+    implementation 'com.github.3cky:DecimalNumberPicker:1.0.0'
 }
 ```
 
