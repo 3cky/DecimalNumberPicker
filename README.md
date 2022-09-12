@@ -1,4 +1,4 @@
-# Decimal Number 
+# Decimal Number Picker
 
 [![](https://jitpack.io/v/3cky/DecimalNumberPicker.svg)](https://jitpack.io/#3cky/DecimalNumberPicker)
 
